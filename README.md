@@ -1,4 +1,4 @@
-## Olá, eu sou o Arnaldo Nascimento, Web Designer especialista em desenvolvimento em WordPress.
+## Olá, eu sou o Arnaldo Nascimento, especialista em desenvolvimento de sites em WordPress.
 
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
 <div> 
   
   <a href="https://instagram.com/agenciabirth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@agenciabirth.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:agenciabirth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arnaldo-p-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
